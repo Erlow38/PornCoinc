@@ -142,10 +142,9 @@ a {
     margin-left: 20px;
     text-align: center;
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: center;
     padding-top: 300px;
-    padding-left: 400px;
     transition: 1s;
     
 }
